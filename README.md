@@ -11,7 +11,6 @@ Project Features
 
 Technologies Used
 
-Project Structure
 
 
 
@@ -44,22 +43,5 @@ JavaScript (Vanilla JS) for interactivity
 Git & GitHub for version control and collaboration
 
 Hosting via GitHub Pages 
-# project structure
-project/
-│── index.html           # Home Page
-│── about.html           # About Page
-│── services.html        # Services Page
-│── contact.html         # Contact Page
-│── gallery.html         # Gallery Page
-│
-├── css/
-│   └── style.css        # Main stylesheet
-│
-├── js/
-│   └── script.js        # Main JavaScript file
-│
-├── images/
-│   └── (all image assets)
-│
-└── README.md            # Project documentation
+
 
